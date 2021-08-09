@@ -5,7 +5,7 @@ import androidx.lifecycle.MutableLiveData
 import ru.techcrat.test.data.Area
 import ru.techcrat.test.data.AreaDao
 import ru.techcrat.test.data.LocalPoint
-import ru.techcrat.test.data.relations.AreaWithPoints
+
 
 
 class AreaRepository(private val areaDao: AreaDao) {

@@ -3,12 +3,9 @@ package ru.techcrat.test.viewmodels
 import android.app.Application
 import androidx.lifecycle.*
 import kotlinx.coroutines.Dispatchers
-import kotlinx.coroutines.coroutineScope
 import kotlinx.coroutines.launch
 import ru.techcrat.test.data.Area
 import ru.techcrat.test.data.AreasDatabase
-import ru.techcrat.test.data.LocalPoint
-import ru.techcrat.test.data.relations.AreaWithPoints
 import ru.techcrat.test.repositories.AreaRepository
 import javax.inject.Inject
 

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Test</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dialog_header">Enter the field name</string>
+    <string name="dialog_hint">Name</string>
+    <string name="ok_dialog_action">OK</string>
+    <string name="cancel_dialog_action">CANCEL</string>
+</resources>

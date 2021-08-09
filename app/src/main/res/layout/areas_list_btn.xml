@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ImageButton
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/btn_confirm"
+    android:layout_width="24dp"
+    android:layout_height="24dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:src="@drawable/list_icon"
+    android:clickable="true"
+    android:focusable="true"
+    style="?android:attr/borderlessButtonStyle"
+    >
+
+</ImageButton>
